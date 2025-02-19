@@ -1,6 +1,3 @@
-//from root directory
-
-// variables
 url = "https://www.autodesk.com"
 validCode = 200
 
